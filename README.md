@@ -1,1 +1,0 @@
-# first-C-language-game
