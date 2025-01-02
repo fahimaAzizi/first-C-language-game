@@ -37,6 +37,5 @@ Think you can outsmart the computer? Prove it with the Number Guessing Game! You
 
 Here’s a quick peek into the magic behind the random number generation:
 
-int number = (rand() % (upper - lower + 1)) + lower;
-
+    int number = (rand() % (upper - lower + 1)) + lower;
 
